@@ -1,5 +1,15 @@
 # SIEM-Honeypot-lab-Azure-Sentinel
 
+
+
+
+
+
+IN DRAFT YET!!!!!!!!!!!!!!!
+
+
+
+
 Step 1: Azure account creatinon
 
 
